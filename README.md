@@ -1,14 +1,14 @@
-Hi, I’m Casuso 👋
+## Hi, I’m Casuso 👋
 
-Full-Stack Developer | React · TypeScript · Node.js · NestJS · AWS
+**Full-Stack Developer | React · TypeScript · Node.js · NestJS · AWS**
 
 I’m a Full-Stack Developer focused on building clear, maintainable and scalable software.
 
 I work comfortably across frontend, backend, cloud and product. I like turning vague requirements into working features, with clean architecture, readable code and practical technical decisions.
 
-⸻
 
-What I Do
+
+## What I Do
 
 * Build web apps with React, TypeScript, Vite, Material UI and Ant Design.
 * Create backend services with Node.js, Express, NestJS, AWS Lambda and API Gateway.
@@ -17,27 +17,26 @@ What I Do
 * Build and ship iOS apps with SwiftUI, Firebase, RevenueCat and AI integrations.
 * Think beyond code: product value, UX, analytics, conversion and maintainability.
 
-⸻
 
-Core Stack
+## Core Stack
 
-Frontend
+### Frontend
 React · TypeScript · JavaScript · Vite · Material UI · Ant Design · RTK Query · React Testing Library · Vitest
 
-Backend
+### Backend
 Node.js · Express · NestJS · PostgreSQL · SQL · Sequelize · Prisma · Kysely · DynamoDB · Firebase Functions
 
-Cloud & Tools
+### Cloud & Tools
 AWS Lambda · API Gateway · Firebase · Docker · GitHub · SonarQube · MSW · OpenAPI
 
-Mobile & Product
+### Mobile & Product
 SwiftUI · iOS · App Store Connect · TestFlight · RevenueCat · Widgets · Firebase Analytics
 
-⸻
 
-How I Work
 
-I like simple systems with clear boundaries.
+## How I Work
+
+***I like simple systems with clear boundaries.***
 
 My usual approach:
 
@@ -49,9 +48,9 @@ My usual approach:
 
 I enjoy working in teams where developers are expected to think, ask good questions and justify their decisions.
 
-⸻
 
-Strong Areas
+
+## Strong Areas
 
 * Full-stack feature development from idea to production.
 * React and TypeScript frontend architecture.
@@ -62,9 +61,9 @@ Strong Areas
 * Clean architecture, DDD-inspired boundaries and maintainable code.
 * AI-assisted workflows and AI-powered app features.
 
-⸻
 
-Current Interests
+
+## Current Interests
 
 * Advanced React architecture.
 * Serverless backend patterns.
@@ -73,15 +72,15 @@ Current Interests
 * SwiftUI and indie iOS apps.
 * Developer experience and automation.
 
-⸻
 
-Tech Keywords
+
+## Tech Keywords
 
 React · TypeScript · Node.js · NestJS · Express · PostgreSQL · SQL · AWS Lambda · API Gateway · Firebase · DynamoDB · SwiftUI · Docker · RTK Query · Vitest · MSW · RevenueCat · Serverless · DDD · Clean Architecture
 
-⸻
 
-Contact
+
+## Contact
 
 * GitHub: @albertofcasuso
 * LinkedIn: https://www.linkedin.com/in/alberto-casuso/
