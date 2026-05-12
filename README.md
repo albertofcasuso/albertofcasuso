@@ -83,6 +83,5 @@ React · TypeScript · Node.js · NestJS · Express · PostgreSQL · SQL · AWS 
 
 Contact
 
-* GitHub: @your-username
-* LinkedIn: your-linkedin-url
-* Email: your-email@example.com
+* GitHub: @albertofcasuso
+* LinkedIn: https://www.linkedin.com/in/alberto-casuso/
